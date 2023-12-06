@@ -13,4 +13,4 @@
 from module import function
 
 lis = [1, 2, 3, 4, 5, 6, 7]
-print(function(lis))
+print(function(lis))  # Сложность 7
